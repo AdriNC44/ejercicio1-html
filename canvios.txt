@@ -1,0 +1,18 @@
+linea 1: añadi una l a html
+linea 4: cear con un > la etiqueta meta
+linea 7: cerar el <title> con </title>
+linea 15: cearr la etiqueta img con un >
+linea 28: cearra bien el <h1> con </h1>
+linea 29: cearra la etiqueta <p> con </p>
+linea 35: meter el </b> dentro de la etiqueta <p></p>
+linea 45: cerra la etiqueta <option> con </option>
+linea 48: comentar el </nav>
+linea 53: cambiar el <th> por <td>
+linea 54: cambiar el <th> por <td>
+linea 58: añadir el <tr> que se cierra en linea 61
+linea 72: poner el post entre ""
+linea 77: eliminar el primer type
+linea 90: cerar el <article>
+linea 93: quitar el </hr>
+linea 98: cearra la etiqueta <p> con </p>
+linea 101: cerrar el body con </body>
